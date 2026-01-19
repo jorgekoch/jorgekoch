@@ -50,7 +50,7 @@ Aqui estão as tecnologias com as quais trabalho:
 
 Aqui estão alguns dos projetos do curso que eu mais gostei de fazer!
 
-* **Linkr (https://github.com/jorgekoch/project-linkr-frontend e https://github.com/jorgekoch/project-linkr-backend)**: [Rede social para compartilhamento de links. Projeto fullstack completo! Feito com metodologia ágeis e SCRUM.]
+* **Linkr (https://github.com/jorgekoch/project-linkr-frontend e https://github.com/jorgekoch/project-linkr-backend)**: [Rede social para compartilhamento de links. Projeto fullstack completo! Feito com metodologia ágeis e SCRUM. Link do Deploy: https://project-linkr-frontend.vercel.app/]
 * **FlashCardGame (https://github.com/jorgekoch/flashcards-com-vite)**: [Jogo de cartas no estilo flashcards utilizando JS e vite.]
 * **Recharge (https://github.com/jorgekoch/Recarga-ts)**: [API para cadastrar numeros e solicitar recarga de celular.]
 
